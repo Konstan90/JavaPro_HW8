@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f2c87ac-7b01-4712-b696-7076b64d008a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/controller/UserLimitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/entity/UserLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/repository/UserLimitRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/service/UserLimitService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/service/UserLimitServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/sheduler/LimitResetScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/controller/UserLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/controller/UserLimitController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/service/UserLimitServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kononov/limitservice/service/UserLimitServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733860513551</updated>
-      <workItem from="1733860514640" duration="19164000" />
+      <workItem from="1733860514640" duration="20587000" />
     </task>
     <servers />
   </component>

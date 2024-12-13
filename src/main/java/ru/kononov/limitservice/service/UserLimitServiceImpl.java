@@ -29,6 +29,7 @@ public class UserLimitServiceImpl implements UserLimitService {
         return userLimit.get();
     }
 
+
     public void spendLimit(Long userId, BigDecimal amount) {
         UserLimit userLimit = getUserLimit(userId);
         if (userLimit.getLimit().subtract(userLimit.getSpentAmount()).compareTo(amount) >= 0) {

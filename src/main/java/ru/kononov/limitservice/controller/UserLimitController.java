@@ -32,7 +32,7 @@ public class UserLimitController {
     public ResponseEntity<String> spendLimit(@PathVariable Long userId, @RequestBody BigDecimal amount) {
         try {
             userLimitService.spendLimit(userId, amount);
-            return ResponseEntity.ok("Платеж успешно проведен");
+            return ResponseEntity.ok("Остаток уменьшен");
         } catch (IllegalArgumentException e) {
             return ResponseEntity.status(400).body(e.getMessage());
         }
